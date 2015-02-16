@@ -1,2 +1,2 @@
-# rails-tocify.js
-Rails gem of gfranko/jquery.tocify.js
+# rails-tocify
+Rails gem of gfranko/jquery.tocify

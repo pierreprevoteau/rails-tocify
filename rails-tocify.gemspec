@@ -17,4 +17,5 @@ Gem::Specification.new do |gem|
   gem.license       = 'MIT'
 
   gem.add_runtime_dependency 'jquery-rails'
+  gem.add_runtime_dependency 'jquery-ui-rails'
 end

@@ -1,6 +1,6 @@
 #Rails-tocify
 
-Asset pipeline bundling of the jquery.tocify jquery plugin.
+Asset pipeline bundling of the tocify jquery plugin.
 
 ###Installation
 

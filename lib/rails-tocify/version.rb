@@ -1,5 +1,5 @@
 module Tocify
   module Rails
-    VERSION = "1.9.0"
+    VERSION = "1.9.0.1"
   end
 end

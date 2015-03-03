@@ -1,4 +1,5 @@
 #Rails-tocify
+[![Gem Version](https://badge.fury.io/rb/rails-tocify.svg)](http://badge.fury.io/rb/rails-tocify)
 
 Asset pipeline bundling of the tocify jquery plugin.
 

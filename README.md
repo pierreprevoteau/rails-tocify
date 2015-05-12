@@ -1,10 +1,7 @@
 #Rails-tocify
 [![Gem Version](https://badge.fury.io/rb/rails-tocify.svg)](http://badge.fury.io/rb/rails-tocify)
 
-Asset pipeline bundling of the tocify jquery plugin
-
-###Installation
-
+##Installation
 Add rails-tocify to your Gemfile:
 
 ``` 
@@ -31,7 +28,6 @@ Include in application.css.scss
 *= require jquery-ui
 ```
 
-###Usage
-
+##Usage
 See the website of the original project for the usage
 https://github.com/gfranko/jquery.tocify.js

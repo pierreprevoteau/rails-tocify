@@ -1,5 +1,5 @@
 #Rails-tocify
-[![Gem Version](https://badge.fury.io/rb/rails-tocify.svg)](http://badge.fury.io/rb/rails-tocify)
+[![Gem Version](https://badge.fury.io/rb/rails-tocify.svg)](http://badge.fury.io/rb/rails-tocify) [![Dependency Status](https://gemnasium.com/peterthecoon/rails-tocify.svg)](https://gemnasium.com/peterthecoon/rails-tocify)
 
 ##Installation
 Add rails-tocify to your Gemfile:
